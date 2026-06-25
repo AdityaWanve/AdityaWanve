@@ -64,9 +64,6 @@ Always excited to connect, collaborate, and grow together!
   <a href="https://leetcode.com/u/AdityaWanve/">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" title="LeetCode">
   </a>
-  <a href="https://www.instagram.com/__aditya___25">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" title="Instagram">
-  </a>
 </p>
 
 ---
